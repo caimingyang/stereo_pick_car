@@ -1,2 +1,1 @@
-# stereo_pick_car
-stereo_pick_car
+仿真抓取苹果的小车。
